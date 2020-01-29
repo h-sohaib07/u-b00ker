@@ -22,7 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "node --version"
     },
-  "homepage": "https://https://h-sohaib07.github.io/u-b00ker/",
+  "homepage": "https://https://h-sohaib07.github.io/u-b00ker/public/",
   "eslintConfig": {
     "extends": "react-app"
   },
